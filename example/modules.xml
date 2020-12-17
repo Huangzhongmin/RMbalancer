@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules>
+    <module id="m1">
+        <attr>COMMON</attr>
+        <period>1000</period>
+        <desr></desr>
+    </module>
+    <module id="m2">
+        <attr>RT</attr>
+        <period>1000</period>
+        <desr></desr>
+    </module>
+    <module id="m2">
+        <attr>RT</attr>
+        <period>1000</period>
+        <parents>m1</parents>
+        <desr></desr>
+    </module>
+    <moudle id="m3">
+        <attr>RT</attr>
+        <period>3000</period>
+        <parents>m2</parents>
+    </moudle>
+
+
+</modules>

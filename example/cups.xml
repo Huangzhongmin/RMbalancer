@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cpus>
+
+<cpu id="A">
+<attr>COMMON</attr>
+<cycle>1000000<cycle>
+<desr></desr>
+</cpu>
+
+<cpu id="B">
+<attr>RT</attr>
+<cycle>1000000<cycle>
+<desr></desr>
+</cpu>
+
+<cpu id="C">
+<attr>RT</attr>
+<cycle>1000000<cycle>
+<desr></desr>
+</cpu>
+
+<cpu id="D">
+<attr>RT</attr>
+<cycle>1000000<cycle>
+<desr></desr>
+</cpu>
+
+</cpus>
